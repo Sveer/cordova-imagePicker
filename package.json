@@ -24,7 +24,7 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Dhaval Soni",
+  "author": "Sveer",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sveer/cordova-imagePicker/issues"
